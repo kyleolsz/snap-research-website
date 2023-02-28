@@ -299,7 +299,7 @@ const teamMembersList = [
     subTitle: "Senior Research Scientist",
     researchAreas: "Computer Vision, Creative Vision",
     backUrl: "../team/category/creative-vision.html",
-    imageUrl: "../../img-for-members/IMG-8053.webp",
+    imageUrl: "../../img-for-members/kyle-olszewski.webp",
     description: `
     <p>Kyle Olszewski is a Senior Research Scientist in the Creative Vision group at Snap Research. His research interests include facial expression tracking, particularly for emerging platforms such as virtual and augmented reality, 3D reconstruction, and intuitive interfaces for image manipulation and synthesis.  </p><p>He was previously a Ph.D. student at the University of Southern California, working in the Geometric Capture Lab under Hao Li. </p><p>His research has been published in venues such as SIGGRAPH, SIGGRAPH Asia, ICCV and CVPR. He was a recipient of the 2018 Snap Research Fellowship.</p>
     `,
