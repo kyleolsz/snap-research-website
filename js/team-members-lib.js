@@ -305,6 +305,21 @@ const teamMembersList = [
     `,
   },
   {
+    id: 304,
+    metaTitle: "",
+    metaDescription: `
+        `,
+    name: "Junli Cao",
+    email: "",
+    subTitle: "Research Engineer",
+    researchAreas: "Computer Vision, Creative Vision",
+    backUrl: "../team/category/creative-vision.html",
+    imageUrl: "../../img-for-members/junli-cao.webp",
+    description: `
+    <p>Junli is a Research Engineer in the Creative Vision group at Snap Research facilitating the transition from research concepts to tangible products. His research interests lie in machine learning, computer vision and probabilistic graphical models. He received his Bachelor's degree in Mathematics from University of California, Los Angeles and Master's degree from Machine Learning Department in Carnegie Mellon University in 2023.</p>
+    `,
+  },
+  {
     id: 306,
     metaTitle: "",
     metaDescription: `
@@ -332,7 +347,7 @@ teamMembersList.forEach((teamMember) => {
 const teamMembersForTeamCategory = {
   computationalImaging: [0, 1, 2, 3, 4, 5, 6],
   computationalSocialScience: [100, 102, 104, 105, 106, 107, 109, 110, 111],
-  creativeVision: [300, 301, 302, 303, 306],
+  creativeVision: [300, 301, 302, 303, 304, 306],
   admin: [],
 
   get all() {
